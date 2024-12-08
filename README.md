@@ -20,5 +20,5 @@ The **Movie Review Website** is a simple and interactive web application built w
 - **HTML**: Structuring the web page content.
 - **CSS**: Styling and making the design responsive.
 - **JavaScript**: Fetching movie data, adding interactivity, and managing logic.
-
+- **API**: OMDb API - The Open Movie Database
 ---
