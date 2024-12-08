@@ -3,6 +3,7 @@
 
 The **Movie Review Website** is a simple and interactive web application built with **HTML**, **CSS**, and **JavaScript**. It allows users to search for movies, view details such as genre, IMDb rating, and description, and explore reviews for their favorite films. The website fetches data dynamically using an external movie database API.
 
+## click here on this link https://frabjous-boba-7547ee.netlify.app/
 ---
 
 ## 🌟 Features
